@@ -20,5 +20,5 @@ expression1 = "{(})"
 print(is_balanced(expression1))
 
 #test 2
-expression2 = "{()}]"
+expression2 = "{()}"
 print(is_balanced(expression2))
